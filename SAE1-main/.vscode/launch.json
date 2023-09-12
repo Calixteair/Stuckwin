@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch StuckWin",
+            "request": "launch",
+            "mainClass": "StuckWin",
+            "projectName": "SAE1_882d95b6"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch StdDraw",
+            "request": "launch",
+            "mainClass": "StdDraw",
+            "projectName": "SAE1_6ada1a6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch StuckWin",
+            "request": "launch",
+            "mainClass": "StuckWin",
+            "projectName": "SAE1_6ada1a6a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tree",
+            "request": "launch",
+            "mainClass": "Tree",
+            "projectName": "SAE1_6ada1a6a"
+        }
+    ]
+}
